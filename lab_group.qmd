@@ -1,0 +1,30 @@
+---
+title: "People"
+---
+
+### "BCF"
+::: {layout="[[1,1], [1,1]]"}
+![](Mark.JPG)
+[Mark Raleigh](https://cryosight.org/mark-raleigh/)
+:::
+
+### Current Lab Group
+::: {layout="[[1,1], [1,1]]"}
+![](Jordy_2.png)
+[Jordan Herbert](http://jordan-herbert.com/)
+
+![Lena Nyblade](snowman_fig.JPG)
+
+![Olivia Stanley](snowman_fig.JPG)
+
+![Spencer Shaw](Spencer_Shaw.JPG)
+
+![](Bareera.JPG)
+[Bareera Nadeem](https://cryosight.org/bareera-mirza/)
+
+:::
+ 
+### Former Students
+Eric Smyth, PhD, 2022
+
+[Hannah Bonner, PhD, 2022](https://www.linkedin.com/in/hannah-bonner-694316b0?trk=contact-info)
