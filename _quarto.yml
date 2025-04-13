@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Eric Small"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Current Projects"
+        href: current_projects.qmd
+      - text: "People"
+        href: lab_group.qmd
+  image: timelapse.mp4
+
+format:
+  html:
+    theme:
+      - flatly
+      - brand
+    css: styles.css
+    toc: true
+
+
+
